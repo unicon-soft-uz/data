@@ -1,0 +1,76 @@
+{
+"jamoamiz": [
+{
+"id": 1,
+"name": "RAXMATULLAYEV TEMURBEK",
+"photo": "",
+"rol": "rahbar",
+"skils": "rahbar",
+"birthday": "29 noyabr 1990"
+},
+{
+"id": 2,
+"name": "USMONALIYEV IBROHIMJON",
+"photo": "",
+"rol": "buxgalteriya",
+"skils": "shartnoma, ijro",
+"birthday": "30 oktabr 1996"
+},
+{
+"id": 3,
+"name": "HAMIDOV KOMILJON",
+"photo": "",
+"rol": "menejer",
+"skils": "edo, lawyer, ijro",
+"birthday": "15 iyul 2000"
+},
+{
+"id": 4,
+"name": "VAXOBOV OTABEK",
+"photo": "https://drive.google.com/file/d/1uIdlyFWgkDzih9lxr6MM4teoBxDwfuzU/view?usp=share_link",
+"rol": "tex",
+"skils": "lawyer, edo, ijro, devonxona",
+"birthday": "2 dekabr 1996"
+},
+{
+"id": 5,
+"name": "BEGBOTOV SHOKIRJON",
+"photo": "",
+"rol": "menejer",
+"skils": "edo, ijro, exat",
+"birthday": "1 fevral 1998"
+},
+{
+"id": 6,
+"name": "AMIROVA NIGINABONU",
+"photo": "",
+"rol": "menejer",
+"skils": "shartnoma, devonxona",
+"birthday": "11 oktabr 2002"
+},
+{
+"id": 7,
+"name": "ORIPOV TEMURMALIK",
+"photo": "",
+"rol": "menejer",
+"skils": "edo, ijro, lawyer",
+"birthday": "11 fevral 1997"
+},
+{
+"id": 8,
+"name": "YO'LDASHEV TEMUR",
+"photo": "",
+"rol": "menejer",
+"skils": "edo, ijro, lawyer",
+"birthday": "9 aprel 1997"
+},
+{
+"id": 9,
+"name": "QO'LDOSHEV AZIZBEK",
+"photo": "",
+"rol": "menejer",
+"skils": "edo, ijro, lawyer",
+"birthday": "14 may 1998"
+}
+]
+}
