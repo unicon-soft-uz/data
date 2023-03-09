@@ -1,3 +1,18 @@
 {
-  
+"news": [
+{
+"id": 1,
+"name": "8 mart",
+"photo": "",
+"discription": "",
+"date": "08.03.2023"
+},
+{
+"id": 2,
+"name": "8 mart",
+"photo": "",
+"discription": "",
+"date": "08.03.2023"
+},
+]
 }
