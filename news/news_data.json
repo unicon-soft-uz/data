@@ -1,25 +1,25 @@
 {
-"news": [
-{
-"id": 1,
-"name": "8 mart",
-"photo": "",
-"discription": "",
-"date": "08.03.2023"
-},
-{
-"id": 2,
-"name": "8 mart",
-"photo": "",
-"discription": "",
-"date": "08.03.2023"
-},
-  {
-"id": 3,
-"name": "8 mart",
-"photo": "",
-"discription": "",
-"date": "08.03.2023"
-}
-]
+  "news": [
+    {
+      "id": 1,
+      "name": "8 mart",
+      "photo": "https://raw.githubusercontent.com/unicon-soft-uz/data/main/news/8_mart.jpg",
+      "discription": "",
+      "date": "08.03.2023"
+    },
+    {
+      "id": 2,
+      "name": "8 mart",
+      "photo": "https://raw.githubusercontent.com/unicon-soft-uz/data/main/news/8_mart.jpg",
+      "discription": "",
+      "date": "08.03.2023"
+    },
+    {
+      "id": 3,
+      "name": "8 mart",
+      "photo": "https://raw.githubusercontent.com/unicon-soft-uz/data/main/news/8_mart.jpg",
+      "discription": "",
+      "date": "08.03.2023"
+    }
+  ]
 }
