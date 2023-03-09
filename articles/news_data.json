@@ -1,0 +1,32 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "name": "8 mart",
+      "photo": "https://raw.githubusercontent.com/unicon-soft-uz/data/main/articles/8_mart.jpg",
+      "discription": "",
+      "date": "08.03.2023"
+    },
+    {
+      "id": 2,
+      "name": "O't o'chiruvchilar",
+      "photo": "https://raw.githubusercontent.com/unicon-soft-uz/data/main/articles/mchs.jpg",
+      "discription": "",
+      "date": "01.03.2023"
+    },
+    {
+      "id": 3,
+      "name": "Oripov Temurning tug'ilgan kuni",
+      "photo": "https://raw.githubusercontent.com/unicon-soft-uz/data/main/articles/tugulgankun_oripov.jpg",
+      "discription": "",
+      "date": "11.02.2023"
+    },
+    {
+      "id": 4,
+      "name": "Hokimiyatda",
+      "photo": "https://raw.githubusercontent.com/unicon-soft-uz/data/main/articles/hokimiyatda.jpg",
+      "discription": "",
+      "date": "09.02.2023"
+    }
+  ]
+}
