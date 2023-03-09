@@ -4,14 +4,14 @@
       "id": 1,
       "name": "8 mart",
       "photo": "https://raw.githubusercontent.com/unicon-soft-uz/data/main/articles/8_mart.jpg",
-      "discription": "",
+      "discription": "Sirdaryo viloyati IT-PARK va Unicon-Soft",
       "date": "08.03.2023"
     },
     {
       "id": 2,
       "name": "O't o'chiruvchilar",
       "photo": "https://raw.githubusercontent.com/unicon-soft-uz/data/main/articles/mchs.jpg",
-      "discription": "",
+      "discription": "Tizim bo'yicha o'quv seminari",
       "date": "01.03.2023"
     },
     {
@@ -25,7 +25,7 @@
       "id": 4,
       "name": "Hokimiyatda",
       "photo": "https://raw.githubusercontent.com/unicon-soft-uz/data/main/articles/hokimiyatda.jpg",
-      "discription": "",
+      "discription": "Tizim bo'yicha o'quv seminari",
       "date": "09.02.2023"
     }
   ]
