@@ -1,84 +1,84 @@
 {
-"jamoamiz": [
-{
-"id": 1,
-"name": "RAXMATULLAYEV TEMURBEK",
-"photo": "",
-"rol": "rahbar",
-"skils": "rahbar",
-"birthday": "29 noyabr 1990"
-},
-{
-"id": 2,
-"name": "USMONALIYEV IBROHIMJON",
-"photo": "https://raw.githubusercontent.com/unicon-soft-uz/data/main/ibo.JPG",
-"rol": "buxgalteriya",
-"skils": "shartnoma, ijro",
-"birthday": "30 oktabr 1996"
-},
-{
-"id": 3,
-"name": "HAMIDOV KOMILJON",
-"photo": "https://raw.githubusercontent.com/unicon-soft-uz/data/main/kolya1.jpg",
-"rol": "menejer",
-"skils": "edo, lawyer, ijro",
-"birthday": "15 iyul 2000"
-},
-{
-"id": 4,
-"name": "VAXOBOV OTABEK",
-"photo": "https://raw.githubusercontent.com/unicon-soft-uz/data/main/otaw.jpg",
-"rol": "tex",
-"skils": "lawyer, edo, ijro, devonxona",
-"birthday": "2 dekabr 1996"
-},
-{
-"id": 5,
-"name": "BEGBOTOV SHOKIRJON",
-"photo": "https://raw.githubusercontent.com/unicon-soft-uz/data/main/shokir.JPG",
-"rol": "menejer",
-"skils": "edo, ijro, exat",
-"birthday": "1 fevral 1998"
-},
-{
-"id": 6,
-"name": "AMIROVA NIGINABONU",
-"photo": "",
-"rol": "menejer",
-"skils": "shartnoma, devonxona",
-"birthday": "11 oktabr 2002"
-},
-{
-"id": 7,
-"name": "ORIPOV TEMURMALIK",
-"photo": "https://raw.githubusercontent.com/unicon-soft-uz/data/main/oripov2.jpg",
-"rol": "menejer",
-"skils": "edo, ijro, lawyer",
-"birthday": "11 fevral 1997"
-},
-{
-"id": 8,
-"name": "YO'LDASHEV TEMUR",
-"photo": "https://raw.githubusercontent.com/unicon-soft-uz/data/main/yoldashev2.jpg",
-"rol": "menejer",
-"skils": "edo, ijro, lawyer",
-"birthday": "9 aprel 1997"
-},
-{
-"id": 9,
-"name": "QO'LDOSHEV AZIZBEK",
-"photo": "https://raw.githubusercontent.com/unicon-soft-uz/data/main/aziz.jpg",
-"rol": "menejer",
-"skils": "edo, ijro, lawyer",
-"birthday": "14 may 1998"
-},
-  {
-"id": 10,
-"name": "TURSUNXO‘JAYEV UMIDJON",
-"photo": "https://raw.githubusercontent.com/unicon-soft-uz/data/main/umid.jpg",
-"rol": "menejer",
-"skils": "edo, ijro, lawyer",
-"birthday": "26 iyun 2005"
-}
-]
+  "jamoamiz": [
+    {
+      "id": 1,
+      "name": "RAXMATULLAYEV TEMURBEK",
+      "photo": "",
+      "rol": "rahbar",
+      "skils": "rahbar",
+      "birthday": "29 noyabr 1990"
+    },
+    {
+      "id": 2,
+      "name": "USMONALIYEV IBROHIMJON",
+      "photo": "https://raw.githubusercontent.com/unicon-soft-uz/data/main/foto_hodimlar/ibo.JPG",
+      "rol": "buxgalteriya",
+      "skils": "shartnoma, ijro",
+      "birthday": "30 oktabr 1996"
+    },
+    {
+      "id": 3,
+      "name": "HAMIDOV KOMILJON",
+      "photo": "https://raw.githubusercontent.com/unicon-soft-uz/data/main/foto_hodimlar/kolya1.jpg",
+      "rol": "menejer",
+      "skils": "edo, lawyer, ijro",
+      "birthday": "15 iyul 2000"
+    },
+    {
+      "id": 4,
+      "name": "VAXOBOV OTABEK",
+      "photo": "https://raw.githubusercontent.com/unicon-soft-uz/data/main/foto_hodimlar/otaw.jpg",
+      "rol": "tex",
+      "skils": "lawyer, edo, ijro, devonxona",
+      "birthday": "2 dekabr 1996"
+    },
+    {
+      "id": 5,
+      "name": "BEGBOTOV SHOKIRJON",
+      "photo": "https://raw.githubusercontent.com/unicon-soft-uz/data/main/foto_hodimlar/shokir.JPG",
+      "rol": "menejer",
+      "skils": "edo, ijro, exat",
+      "birthday": "1 fevral 1998"
+    },
+    {
+      "id": 6,
+      "name": "AMIROVA NIGINABONU",
+      "photo": "",
+      "rol": "menejer",
+      "skils": "shartnoma, devonxona",
+      "birthday": "11 oktabr 2002"
+    },
+    {
+      "id": 7,
+      "name": "ORIPOV TEMURMALIK",
+      "photo": "https://raw.githubusercontent.com/unicon-soft-uz/data/main/foto_hodimlar/oripov2.jpg",
+      "rol": "menejer",
+      "skils": "edo, ijro, lawyer",
+      "birthday": "11 fevral 1997"
+    },
+    {
+      "id": 8,
+      "name": "YO'LDASHEV TEMUR",
+      "photo": "https://raw.githubusercontent.com/unicon-soft-uz/data/main/foto_hodimlar/yoldashev2.jpg",
+      "rol": "menejer",
+      "skils": "edo, ijro, lawyer",
+      "birthday": "9 aprel 1997"
+    },
+    {
+      "id": 9,
+      "name": "QO'LDOSHEV AZIZBEK",
+      "photo": "https://raw.githubusercontent.com/unicon-soft-uz/data/main/foto_hodimlar/aziz.jpg",
+      "rol": "menejer",
+      "skils": "edo, ijro, lawyer",
+      "birthday": "14 may 1998"
+    },
+    {
+      "id": 10,
+      "name": "TURSUNXO'JAYEV UMIDJON",
+      "photo": "https://raw.githubusercontent.com/unicon-soft-uz/data/main/foto_hodimlar/umid.jpg",
+      "rol": "menejer",
+      "skils": "edo, ijro, lawyer",
+      "birthday": "26 iyun 2005"
+    }
+  ]
 }
